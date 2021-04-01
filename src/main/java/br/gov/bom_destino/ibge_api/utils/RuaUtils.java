@@ -1,10 +1,10 @@
-package br.gov.bom_destino.ibge.api.utils;
+package br.gov.bom_destino.ibge_api.utils;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.gov.bom_destino.ibge.api.entities.Imovel;
-import br.gov.bom_destino.ibge.api.entities.Rua;
+import br.gov.bom_destino.ibge_api.entities.Imovel;
+import br.gov.bom_destino.ibge_api.entities.Rua;
 
 public class RuaUtils {
 	public static Rua gerarRua(String nome) {

@@ -1,4 +1,4 @@
-package br.gov.bom_destino.ibge.api.utils;
+package br.gov.bom_destino.ibge_api.utils;
 
 import java.util.Random;
 

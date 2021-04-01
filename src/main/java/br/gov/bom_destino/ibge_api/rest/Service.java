@@ -1,4 +1,4 @@
-package br.gov.bom_destino.ibge.api.rest;
+package br.gov.bom_destino.ibge_api.rest;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

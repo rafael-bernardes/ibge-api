@@ -1,10 +1,10 @@
-package br.gov.bom_destino.ibge.api.utils;
+package br.gov.bom_destino.ibge_api.utils;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.gov.bom_destino.ibge.api.entities.Bairro;
-import br.gov.bom_destino.ibge.api.entities.Cidade;
+import br.gov.bom_destino.ibge_api.entities.Bairro;
+import br.gov.bom_destino.ibge_api.entities.Cidade;
 
 public class CidadeUtils {
 	public static Cidade gerarCidade(String nome) {

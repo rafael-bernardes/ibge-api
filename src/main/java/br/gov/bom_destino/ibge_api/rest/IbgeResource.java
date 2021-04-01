@@ -1,4 +1,4 @@
-package br.gov.bom_destino.ibge.api.rest;
+package br.gov.bom_destino.ibge_api.rest;
 
 import java.io.Serializable;
 
@@ -10,7 +10,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import br.gov.bom_destino.ibge.api.utils.CidadeUtils;
+import br.gov.bom_destino.ibge_api.utils.CidadeUtils;
 
 @Path("/")
 @Consumes(MediaType.APPLICATION_JSON)

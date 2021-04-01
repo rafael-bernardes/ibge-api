@@ -1,4 +1,4 @@
-package br.gov.bom_destino.ibge.api.entities;
+package br.gov.bom_destino.ibge_api.entities;
 
 import java.util.List;
 
